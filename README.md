@@ -24,3 +24,7 @@ This project is a web application built using React.js and Tailwind CSS, designe
    git clone https://github.com/Sarbajit-Chaki/Gemini-clone.git
    cd gemini-clone
 
+
+## Demo
+Explore the project live [here](https://sarbajit-gemini.netlify.app/) 
+
